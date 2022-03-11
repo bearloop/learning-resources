@@ -1,2 +1,2 @@
-# learning_resources
+# learning-resources
 A repo with notes and code, largely for me to revisit and refresh my memory of how things work.
