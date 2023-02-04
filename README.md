@@ -13,3 +13,7 @@ A repo with notes and code, largely for me to revisit and refresh my memory of h
 #### Data analysis
 
 #### Finance
+
+#### ML
+
+#### CS Fundamentals
